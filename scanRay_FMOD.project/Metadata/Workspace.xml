@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="Workspace" id="{6114d0fb-de8d-4ba4-b734-7dd81e77834f}">
+		<property name="builtBanksOutputDirectory">
+			<value>C:/Users/king2/OneDrive/ドキュメント/GitHub/Project-scanray-ultra/Content/FMOD</value>
+		</property>
+		<relationship name="masterEventFolder">
+			<destination>{fba995f3-e5fe-400b-8077-f0ff1191bc4b}</destination>
+		</relationship>
+		<relationship name="masterTagFolder">
+			<destination>{aac6a096-0ac2-4652-914f-e7b29d5793e9}</destination>
+		</relationship>
+		<relationship name="masterEffectPresetFolder">
+			<destination>{af55dff8-e1fc-4d76-ac6e-7cca103b219e}</destination>
+		</relationship>
+		<relationship name="masterParameterPresetFolder">
+			<destination>{ff447fa3-f552-4aac-8a8a-9a5e81fbac60}</destination>
+		</relationship>
+		<relationship name="masterBankFolder">
+			<destination>{2ff1135c-d1d0-43ef-8d6b-18fdb4354ca4}</destination>
+		</relationship>
+		<relationship name="masterSandboxFolder">
+			<destination>{ab60eaf0-8275-4092-9910-4c1f1090f49b}</destination>
+		</relationship>
+		<relationship name="masterAssetFolder">
+			<destination>{31911289-4ecb-41aa-9218-d89fd691ccd8}</destination>
+		</relationship>
+		<relationship name="mixer">
+			<destination>{010dd2bd-fb4a-4aba-af1b-88060535a95d}</destination>
+		</relationship>
+		<relationship name="profilerSessionFolder">
+			<destination>{8a249873-32f2-48d1-b22a-bc2d906a86e6}</destination>
+		</relationship>
+		<relationship name="platforms">
+			<destination>{2b575eaa-0ea0-445c-b194-f1fbddc7d07c}</destination>
+		</relationship>
+	</object>
+</objects>
