@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{050c2991-aa0f-4d96-935e-c315fb0f0b55}">
+		<property name="assetPath">
+			<value>Environment/EchoStoneFall.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>8.6494331065759642</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{31911289-4ecb-41aa-9218-d89fd691ccd8}</destination>
+		</relationship>
+	</object>
+</objects>

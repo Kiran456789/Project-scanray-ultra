@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{9de79e64-e3d4-4d70-9c10-c38fa02bbe3d}">
+		<property name="assetPath">
+			<value>Movement/EchoWoodFootsteps.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>39.0443537414966</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{31911289-4ecb-41aa-9218-d89fd691ccd8}</destination>
+		</relationship>
+	</object>
+</objects>

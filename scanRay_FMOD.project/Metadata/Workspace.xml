@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="Workspace" id="{6114d0fb-de8d-4ba4-b734-7dd81e77834f}">
 		<property name="builtBanksOutputDirectory">
-			<value>C:/Users/king2/OneDrive/ドキュメント/GitHub/Project-scanray-ultra/Content/FMOD</value>
+			<value>../Content/FMOD</value>
 		</property>
 		<relationship name="masterEventFolder">
 			<destination>{fba995f3-e5fe-400b-8077-f0ff1191bc4b}</destination>
