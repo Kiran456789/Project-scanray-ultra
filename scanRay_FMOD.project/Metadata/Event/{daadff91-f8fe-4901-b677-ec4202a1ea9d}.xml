@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{daadff91-f8fe-4901-b677-ec4202a1ea9d}">
 		<property name="name">
-			<value>StoneDropInWater</value>
+			<value>StoneDropInWater(Panned to Right)</value>
 		</property>
 		<property name="outputFormat">
 			<value>1</value>
