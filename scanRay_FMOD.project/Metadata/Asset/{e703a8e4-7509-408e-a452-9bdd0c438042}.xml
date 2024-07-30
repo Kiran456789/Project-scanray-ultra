@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="EncodableAsset" id="{e703a8e4-7509-408e-a452-9bdd0c438042}">
+		<property name="assetPath">
+			<value>Environment/bridgeSFX/</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{31911289-4ecb-41aa-9218-d89fd691ccd8}</destination>
+		</relationship>
+	</object>
+</objects>
