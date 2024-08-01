@@ -85,6 +85,9 @@
 		</relationship>
 	</object>
 	<object class="EventMixerMaster" id="{520740fc-281a-4ad2-8343-ce39cf605cb9}">
+		<property name="pitch">
+			<value>8</value>
+		</property>
 		<relationship name="effectChain">
 			<destination>{d9c5c79b-49a4-4321-aba8-0d92d395e18a}</destination>
 		</relationship>
@@ -120,6 +123,9 @@
 		</relationship>
 	</object>
 	<object class="EventMixerGroup" id="{9c73a6c5-b4b9-4771-a336-71d7985431ee}">
+		<property name="volume">
+			<value>-8</value>
+		</property>
 		<property name="name">
 			<value>Audio 1</value>
 		</property>
@@ -142,16 +148,25 @@
 	<object class="MixerBusPanner" id="{45570876-b58d-4980-a179-0aea3708af27}" />
 	<object class="MixerBusFader" id="{9ac835a1-66dd-4a44-916e-63269ef6e076}" />
 	<object class="SingleSound" id="{e593291f-f94a-4262-bfc2-7c9ea085357e}">
+		<property name="startOffset">
+			<value>30.5</value>
+		</property>
 		<relationship name="audioFile">
 			<destination>{552472a6-eea5-49dd-a4e6-3a3ce8f1f665}</destination>
 		</relationship>
 	</object>
 	<object class="SingleSound" id="{35f2459b-888e-4ce2-97ca-fb36184be877}">
+		<property name="startOffset">
+			<value>12.5</value>
+		</property>
 		<relationship name="audioFile">
 			<destination>{da53e44d-3672-453c-808d-533daa6c32a4}</destination>
 		</relationship>
 	</object>
 	<object class="SingleSound" id="{613abb8b-bb94-4135-92da-29e0b13e65c8}">
+		<property name="startOffset">
+			<value>9.5</value>
+		</property>
 		<relationship name="audioFile">
 			<destination>{ceb0689e-c1b7-4012-986a-1532863c3017}</destination>
 		</relationship>
